@@ -1,0 +1,15 @@
+{
+    "name": "azimb/tp_5_2",
+    "authors": [
+        {
+            "name": "Azixp",
+            "email": "azimbeledjhem@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
